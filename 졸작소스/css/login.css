@@ -1,0 +1,9 @@
+#bodys {background-color: pink;}
+#login_box {width: 429px; margin: 0 auto; text-align: center; border:1px solid black; padding: 80px 5px 110px 5px; background-color:white; margin-top:7%; }
+#login_btn {margin-top : 15px; margin-bottom:50px; width:100px; height:53px; }
+#login_img {width: 350px; height: 53px;}
+#login_box span {font-size :20px; font-weight:bold; margin-left: -285px;}
+#login_box input {width : 80%; height:45px; border-right:0px; border-left:0px; border-top:0px; margin-top:5px; outline:none;}
+#login_box hr {width : 80%;}
+#plus {text-align:right; width :91%;}
+#login_box a {text-decoration:none; color:#7E7E7E;}

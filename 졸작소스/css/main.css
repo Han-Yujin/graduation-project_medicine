@@ -1,0 +1,30 @@
+a{
+    text-decoration:none;
+    color: #fff;
+    
+   
+}
+.menu-bar{
+    background-color: pink;
+    text-align: center; 
+    list-style-type: none;
+    
+}
+.menu-bar a{
+    padding :12px;
+    display: inline-block;
+    font-size:18px; 
+    margin-left:180px;
+     
+}
+.menu-bar a:hover{
+    background-color:  rgb(100, 63, 211);
+
+}
+.menu-bar li {
+    float: left;
+}
+#img_btn{
+    border: 0;
+    outline: 0;
+}
